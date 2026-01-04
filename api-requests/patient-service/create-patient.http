@@ -3,8 +3,8 @@ POST http://localhost:4000/patients
 Content-Type: application/json
 
 {
-    "name": "Hemananda 1233344",
-    "email": "test22287732@gmail.com",
+    "name": "Hemananda kafka 1233344",
+    "email": "crazy11@gmail.com",
     "address": "street no 6",
     "dateOfBirth":"2003-06-04",
     "registeredDate": "2025-10-04"
